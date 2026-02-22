@@ -8,10 +8,11 @@
 <details>
 
 <summary> Other Stats </summary>
- 
+ <!--
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hibiki-kudo&no-frame=true&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=hibiki-kudo)](https://github.com/LordDashMe/github-contribution-stats/)
-
+-->
 </details>
 <!--
 **hibiki-kudo/hibiki-kudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
