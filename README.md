@@ -1,6 +1,9 @@
 ## Stats
+<!--
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hibiki-kudo&show_icons=true&count_private=true&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=hibiki-kudo&count_private=true&layout=compact&langs_count=12&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <details>
 
